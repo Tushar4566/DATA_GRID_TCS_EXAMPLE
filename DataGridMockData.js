@@ -150,7 +150,7 @@ export const rowsForTable = [
   },
   {
     id: 62197,
-    businessNameColumn: "American Express",
+    businessNameColumn: "American Exprss",
     fcaRefIDColumn: 9568567474359,
     legalEntityNameColumn: "American Express Legal",
     phoenixIDColumn: "AEL232312123",
